@@ -14,7 +14,7 @@ Ce projet est une application React affichant une liste d'articles de blog en ut
 
    ```bash
    git clone https://github.com/SaliouBaninou/daisyui-blog.git
-   cd nom-du-repo
+   cd daisyui-blog
    ```
 
 2. **Installer les dépendances** 📦
